@@ -18,6 +18,14 @@ Select a song and details will show.
 <br />
 
 
+## Screenshots
+<p float="left">
+  <img src="song_details1.jpg" width="300">
+  &nbsp;&nbsp;
+  <img src="song_details2.jpg" width="300">
+</p>
+
+<br />
 
 ## Available Scripts
 
