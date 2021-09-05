@@ -20,9 +20,9 @@ Select a song and details will show.
 
 ## Screenshots
 <p float="left">
-  <img src="song_details1.jpg" width="300">
+  <img src="song_details1.jpg" width="500">
   &nbsp;&nbsp;
-  <img src="song_details2.jpg" width="300">
+  <img src="song_details2.jpg" width="500">
 </p>
 
 <br />
